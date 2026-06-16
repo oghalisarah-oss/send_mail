@@ -1,0 +1,31 @@
+product_id,product_name,category,brand,sku,price_usd,cost_usd,profit_margin_%,stock_quantity,unit,weight_kg,dimensions_cm,color,material,rating,reviews_count,supplier,country_of_origin,warranty_years,is_active
+P001,Wireless Noise-Cancelling Headphones,Electronics,SoundCore,SC-WNC-001,149.99,62.00,58.7,320,Each,0.28,18x16x8,Midnight Black,ABS Plastic / Memory Foam,4.7,2841,SoundCore Ltd,Japan,2,TRUE
+P002,Ergonomic Office Chair,Furniture,ComfortPro,CP-EOC-002,389.00,155.00,60.2,85,Each,18.50,68x65x120,Charcoal Grey,Mesh / Steel Frame,4.5,1203,ComfortPro Manufacturing,Germany,5,TRUE
+P003,Stainless Steel Water Bottle 1L,Kitchen,HydroFlow,HF-SSB-003,34.99,9.50,72.8,1200,Each,0.38,8x8x30,Brushed Silver,18/8 Stainless Steel,4.8,5672,HydroFlow Co.,China,1,TRUE
+P004,Mechanical Keyboard - TKL,Electronics,KeyMaster,KM-MKB-004,129.00,48.00,62.8,540,Each,0.92,36x13x4,White / RGB,Aircraft Aluminium / PBT,4.6,3190,KeyMaster Electronics,Taiwan,2,TRUE
+P005,Yoga Mat Premium,Sports,FlexFit,FF-YMP-005,59.99,18.00,70.0,780,Each,1.40,183x61x0.6,Teal,Natural Rubber / Microfibre,4.7,4421,FlexFit Sports,India,1,TRUE
+P006,4K Webcam with Ring Light,Electronics,VisionTech,VT-4KW-006,89.99,34.00,62.2,410,Each,0.55,10x10x12,Matte Black,ABS Plastic / Glass Lens,4.4,2108,VisionTech Inc.,South Korea,1,TRUE
+P007,Bamboo Cutting Board Set (3-piece),Kitchen,EcoKitchen,EK-BCB-007,44.99,14.00,68.9,920,Set,1.80,30x20x2 / 25x17x2 / 20x14x2,Natural,100% Organic Bamboo,4.6,3340,EcoKitchen Supplies,Vietnam,0,TRUE
+P008,Portable Bluetooth Speaker,Electronics,BassBoom,BB-PBS-008,79.99,28.00,65.0,670,Each,0.62,15x7x7,Ocean Blue,Aluminium / Silicone,4.5,6012,BassBoom Audio,China,1,TRUE
+P009,Air Purifier HEPA H13,Appliances,CleanAir,CA-APH-009,199.99,80.00,60.0,210,Each,5.20,30x30x55,Pearl White,ABS Plastic / HEPA Filter,4.8,1875,CleanAir Tech,South Korea,3,TRUE
+P010,Resistance Band Set (5-pack),Sports,FitStrong,FS-RBS-010,29.99,7.00,76.7,2100,Set,0.45,Various,Multi-colour,Natural Latex,4.6,8930,FitStrong Fitness,China,0,TRUE
+P011,Smart LED Desk Lamp,Electronics,LumiDesk,LD-SDL-011,54.99,19.00,65.5,490,Each,0.90,15x15x45,White,ABS Plastic / Aluminium,4.5,2267,LumiDesk Co.,China,2,TRUE
+P012,Cast Iron Skillet 26cm,Kitchen,IronChef,IC-CIS-012,69.99,24.00,65.7,350,Each,2.80,38x26x5,Black,Pre-seasoned Cast Iron,4.9,7823,IronChef Cookware,USA,0,TRUE
+P013,Standing Desk Converter,Furniture,RiseWork,RW-SDC-013,249.00,95.00,61.8,120,Each,12.00,90x40x40,Black,Steel / MDF,4.4,987,RiseWork Furniture,Germany,3,TRUE
+P014,Insulated Lunch Bag,Kitchen,CoolKeep,CK-ILB-014,24.99,7.50,70.0,1450,Each,0.30,25x18x20,Navy Blue,Polyester / PEVA Lining,4.5,4102,CoolKeep Products,China,0,TRUE
+P015,Wireless Charging Pad 15W,Electronics,ChargeFast,CF-WCP-015,39.99,12.00,70.0,880,Each,0.18,10x10x1,Dark Grey,Aluminium / TPU,4.4,3567,ChargeFast Electronics,Taiwan,1,TRUE
+P016,Memory Foam Pillow,Bedroom,DreamRest,DR-MFP-016,49.99,16.00,68.0,640,Each,0.95,60x40x12,White,Bamboo Cover / Memory Foam,4.7,5234,DreamRest Textiles,China,1,TRUE
+P017,Stainless Steel Cookware Set 5-piece,Kitchen,ProChef,PC-SCS-017,189.00,70.00,63.0,175,Set,5.60,Various,Silver,18/10 Stainless Steel,4.6,2890,ProChef Cookware,Germany,5,TRUE
+P018,Foldable Treadmill,Sports,CardioMax,CM-FTR-018,549.00,210.00,61.8,45,Each,42.00,150x65x130,Black / Red,Steel / ABS Plastic,4.3,634,CardioMax Sports,China,2,TRUE
+P019,USB-C Hub 10-in-1,Electronics,ConnectAll,CA-UCH-019,59.99,20.00,66.7,760,Each,0.12,12x5x2,Space Grey,Aluminium,4.6,4478,ConnectAll Tech,Taiwan,1,TRUE
+P020,Essential Oil Diffuser 500ml,Home,AromaZen,AZ-EOD-020,44.99,14.00,68.9,530,Each,0.85,15x15x25,White Wood,PP Plastic / Wood Grain,4.7,3901,AromaZen Home,China,1,TRUE
+P021,Adjustable Dumbbell Set 2-24kg,Sports,PowerLift,PL-ADS-021,299.00,110.00,63.2,90,Set,24.00,35x22x22,Black / Silver,Steel / ABS Plastic,4.8,1456,PowerLift Fitness,USA,2,TRUE
+P022,Ceramic Non-Stick Pan 28cm,Kitchen,CeraGlide,CG-CNP-022,54.99,18.00,67.3,420,Each,0.95,44x28x7,Sage Green,Aluminium / Ceramic Coating,4.5,3278,CeraGlide Cookware,Italy,2,TRUE
+P023,Laptop Backpack 30L,Accessories,CarryOn,CO-LBP-023,74.99,26.00,65.3,610,Each,0.95,45x32x18,Slate Grey,Polyester 900D / Nylon,4.6,5601,CarryOn Bags,China,1,TRUE
+P024,Smart Kitchen Scale,Kitchen,PreciseEat,PE-SKS-024,34.99,10.00,71.4,830,Each,0.55,20x15x2,White,ABS Plastic / Tempered Glass,4.5,2934,PreciseEat Tech,China,1,TRUE
+P025,Blackout Curtains (pair),Bedroom,DarkRoom,DR-BCT-025,64.99,22.00,66.1,380,Pair,1.20,135x240cm,Graphite,Polyester Triple Weave,4.7,4102,DarkRoom Textiles,Turkey,0,TRUE
+P026,Electric Kettle 1.7L,Appliances,BrewFast,BF-EKT-026,49.99,17.00,66.0,490,Each,1.10,24x16x24,Brushed Steel,Stainless Steel / BPA-Free,4.7,6730,BrewFast Appliances,UK,2,TRUE
+P027,Foam Roller 90cm,Sports,RecoverX,RX-FR-027,29.99,8.50,71.6,950,Each,0.65,90x15x15,Black,EVA Foam,4.6,3892,RecoverX Sports,China,0,TRUE
+P028,Wall-Mount Monitor Arm (dual),Electronics,MountPro,MP-WMA-028,89.99,32.00,64.4,260,Each,3.40,35x18x12,Matte Black,Steel / Aluminium,4.7,2103,MountPro Solutions,China,3,TRUE
+P029,Cordless Handheld Vacuum,Appliances,SuctionX,SX-CHV-029,109.00,40.00,63.3,310,Each,1.20,28x12x20,White / Cyan,ABS Plastic / HEPA Filter,4.4,1987,SuctionX Appliances,South Korea,2,TRUE
+P030,Scented Soy Candle Set (3-pack),Home,FlameGlow,FG-SSC-030,39.99,11.00,72.5,1100,Set,0.90,8x8x9 each,Terracotta / Cream / Sage,100% Soy Wax / Cotton Wick,4.8,7215,FlameGlow Home,USA,0,TRUE
